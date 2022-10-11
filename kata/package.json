@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "@types/jest-when": "^3.5.2",
-    "jest-when": "^3.5.1"
+    "jest-when": "^3.5.1",
+    "prettier": "^2.7.1"
   }
 }
